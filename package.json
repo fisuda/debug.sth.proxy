@@ -1,0 +1,21 @@
+{
+  "name": "dummy.webserver",
+  "version": "1.0.0",
+  "description": "dummy.webserver",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "http": "0.0.0",
+    "request": "^2.87.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
